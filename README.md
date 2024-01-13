@@ -2,7 +2,6 @@
 
 👀 Passionate about everything related to Engineering and programming. <br>
 🌱 Constantly expanding my knowledge and honing my skills to stay ahead of the curve. <br>
-🔭 Engaged in exciting projects that challenge and inspire me <br>
 📚 Here is a mix of projects showcasing my growth, creativity, and problem-solving skills.
 
 <!---
